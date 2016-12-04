@@ -1,0 +1,11 @@
+bin/
+
+.classpath
+
+*.class
+
+*.jar
+
+*.zip
+
+*.rar
